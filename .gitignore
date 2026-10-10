@@ -1,0 +1,44 @@
+# Python-generated files
+__pycache__/
+*.py[cod]
+*$py.class
+build/
+dist/
+wheels/
+*.egg-info/
+*.egg
+.eggs/
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+activate/
+
+# IDEs and editors
+.idea/
+.vscode/
+*.iml
+*.swp
+*~
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Test, coverage and lint caches
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.tox/
+.coverage
+htmlcov/
+
+# Environment variables / secrets
+.env
+.env.*
+!.env.example
+
+# OS files
+.DS_Store
+Thumbs.db
