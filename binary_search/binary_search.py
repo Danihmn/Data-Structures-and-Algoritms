@@ -4,6 +4,7 @@ def binary_search(nums, target):
     steps = 0
     while left_pointer < right_pointer:
         steps += 1
+
         mid = int((left_pointer + right_pointer) / 2)
 
         if nums[mid] == target:
