@@ -1,0 +1,10 @@
+[project]
+name = "exponential-search"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+authors = [{ name = "Danihmn", email = "daniel.bezerra.mult@gmail.com" }]
+requires-python = ">=3.14"
+
+[project.scripts]
+exponential-search = "exponential_search:main"
