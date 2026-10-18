@@ -1,0 +1,11 @@
+[project]
+name = "intersection-of-two-arrays"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+authors = [{ name = "Danihmn", email = "daniel.bezerra.mult@gmail.com" }]
+requires-python = ">=3.14"
+dependencies = []
+
+[project.scripts]
+intersection-of-two-arrays = "intersection_of_two_arrays:main"
